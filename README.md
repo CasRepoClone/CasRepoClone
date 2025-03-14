@@ -2,7 +2,7 @@
 I'm a second year BSc Computer Science student at Kingston University. I'm currently abroad at Politechnika Wroclawska in poland on a study abroad year. whilst I'm currently learning full stack development, My speciality is python and OOP
 
 ## My website
-[![Click me](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://northenindustries.org/) 
+[![Click me](https://img.shields.io/badge/Click_Me-My_Website)](https://northenindustries.org/) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/caspiannorth/) 
