@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a second year BSc Computer Science student at Kingston University. I'm currently abroad at Politechnika Wroclawska in poland on a study abroad year. whilst I'm currently learning full stack development, My speciality is python and OOP
+I'm a second year BSc Computer Science student at Kingston University. I'm currently abroad at Politechnika Wroclawska in poland on a study abroad year. whilst I'm currently learning full stack development, My speciality is python, OOP and UX
 
 ## My website (In progress)
 [![Click me](https://img.shields.io/badge/Click_Me-My_Website)](https://northenindustries.org/) 
