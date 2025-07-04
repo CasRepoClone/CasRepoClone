@@ -3,6 +3,7 @@ I'm a second year BSc Computer Science student at Kingston University. I'm curre
 
 ## My website (In progress)
 [![Click me](https://img.shields.io/badge/Click_Me-My_Website)](https://northenindustries.org/) 
+(Temporarily down)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/caspiannorth/) 
